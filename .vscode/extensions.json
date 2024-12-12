@@ -1,1 +1,12 @@
 
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",          // Prettier
+        "ms-python.python",               // Python
+        "ecmel.vscode-html-css",          // HTML and CSS
+        "dbaeumer.vscode-eslint",         // ESLint
+        "bradlc.vscode-tailwindcss",      // Tailwind CSS
+        "DarkMagic.darkmagic-theme",      // Dark Magic Theme
+        "pkief.material-icon-theme"       // Material Icon Theme
+    ]
+}
