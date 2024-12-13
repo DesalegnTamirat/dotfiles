@@ -12,6 +12,8 @@
     "terminal.integrated.fontFamily": "FiraCode Nerd Font",
     "workbench.settings.applyToAllProfiles": [
         
+
     ],
+    "editor.wordWrap": "on",
 
 }
