@@ -11,9 +11,12 @@
     "editor.fontLigatures": true,
     "terminal.integrated.fontFamily": "FiraCode Nerd Font",
     "workbench.settings.applyToAllProfiles": [
+    
         
 
     ],
     "editor.wordWrap": "on",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
 
 }
